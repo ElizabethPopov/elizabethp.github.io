@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+title: Elizabeth Popov
+description: My personal research website
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom CSS
+include:
+  - assets/style.css
