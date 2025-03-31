@@ -2,9 +2,9 @@
 layout: default
 title: Welcome!
 ---
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/elizabethp.github.io/assets/style.css">
 
-<img src="/assets/site-banner.svg" alt="My Banner" style="width:100%; max-height:300px;" />
+<img src="/elizabethp.github.io/assets/site-banner.svg" alt="Banner" style="width:100%; max-height:300px;" />
 
 # Hi, I'm Elizabeth (Liza) Popov 👋
 
