@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Welcome!
 ---
+<link rel="stylesheet" href="/assets/style.css">
 
 <img src="/assets/site-banner.svg" alt="My Banner" style="width:100%; max-height:300px;" />
 
