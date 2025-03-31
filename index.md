@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Welcome!
 ---
 <link rel="stylesheet" href="/elizabethp.github.io/assets/style.css">
 
