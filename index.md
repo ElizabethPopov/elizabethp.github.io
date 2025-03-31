@@ -1,6 +1,4 @@
----
-layout: default
----
+
 <link rel="stylesheet" href="/elizabethp.github.io/assets/style.css">
 
 <img src="/elizabethp.github.io/assets/site-banner.svg" alt="Banner" style="width:100%; max-height:300px;" />
