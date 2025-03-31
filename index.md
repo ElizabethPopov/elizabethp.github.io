@@ -3,7 +3,7 @@ layout: default
 title: Welcome!
 ---
 
-<img src="/assets/banner.png" alt="My Banner" style="width:100%; border-radius:10px;" />
+<img src="/assets/my-banner.svg" alt="My Banner" style="width:100%; max-height:300px;" />
 
 # Hi, I'm Elizabeth (Liza) Popov 👋
 
