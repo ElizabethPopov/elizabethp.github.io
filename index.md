@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="/elizabethp.github.io/assets/style.css">
-<link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&display=swap" rel="stylesheet">
 
 <img src="/elizabethp.github.io/assets/site-banner.svg" alt="Banner" style="width:100%; max-height:300px;" />
 
