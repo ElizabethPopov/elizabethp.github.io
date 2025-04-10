@@ -3,7 +3,7 @@ title: Elizabeth Popov
 description: >
   My personal research website  
   <br><br>
-  <img src="/elizabethp.github.io/assets/TF_DNA.png" alt="DNA" style="max-width:150px; display:block; margin: 10px auto;">
+  <img src="/elizabethp.github.io/assets/TF_DNA.png" alt="DNA" style="max-width:150px; display:block;">
 
 markdown: kramdown
 plugins:
