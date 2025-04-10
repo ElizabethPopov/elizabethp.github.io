@@ -1,11 +1,5 @@
 <link rel="stylesheet" href="/elizabethp.github.io/assets/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
-
-<div class="container">
-  <div class="left-column">
-    <img src="/elizabethp.github.io/assets/TF_DNA.png" alt="Elizabeth Popov" style="max-width:100%; border-radius:12px;" />
-  </div>
-  <div class="right-column">
   
   <h1>👋 Hi, I'm Elizabeth (Liza) Popov</h1>
 
