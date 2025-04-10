@@ -1,5 +1,5 @@
 body {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'National Park', sans-serif;
   background-color: #e9f7f5;
   color: #333;
 }
@@ -7,6 +7,11 @@ body {
 h1, h2 {
   color: #628c85;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'National Park', sans-serif;
+}
+
 
 a {
   color: #0a9396;
