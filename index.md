@@ -3,7 +3,7 @@
 
 <div class="container">
   <div class="left-column">
-    <img src="/elizabethp.github.io/assets/profile.png" alt="Elizabeth Popov" style="max-width:100%; border-radius:12px;" />
+    <img src="/elizabethp.github.io/assets/TF_DNA.png" alt="Elizabeth Popov" style="max-width:100%; border-radius:12px;" />
   </div>
   <div class="right-column">
   
