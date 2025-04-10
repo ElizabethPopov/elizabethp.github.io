@@ -3,7 +3,7 @@
   
   <h1>👋 Hi, I'm Elizabeth (Liza) Popov</h1>
 
-  <p>Welcome to my website! I'm exploring the fascinating world of proteins 🧬, molecular biology 🧫, and gene regulation 🧠.</p>
+  <p>Welcome to my website! I'm exploring the fascinating world of proteins, molecular biology, and gene regulation.</p>
 
   <h2>🔬 Current Project</h2>
   <ul>
