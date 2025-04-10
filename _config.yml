@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: Elizabeth Popov
-description: My personal research website
+description: >
+  My personal research website  
+  <br><br>
+  <img src="/elizabethp.github.io/assets/dna.png" alt="DNA" style="max-width:120px; margin-top:10px;">description: My personal research website
 markdown: kramdown
 plugins:
   - jekyll-feed
