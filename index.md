@@ -30,6 +30,3 @@
     <li>🔬 Protein purification, protein–protein interactions and protein crystallization</li>
   </ul>
 
-  </div>
-</div>
-
