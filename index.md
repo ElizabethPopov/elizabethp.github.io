@@ -27,6 +27,5 @@
     <li>🐍 Basic Programming Skills (Python)</li>
     <li>🌡️ Topics in Physical Chemistry and Biophysics</li>
     <li>🧬 Exploring Topics in Protein–Nucleic Acid Interactions</li>
-    <li>🔬 Protein purification, protein–protein interactions and protein crystallization</li>
   </ul>
 
