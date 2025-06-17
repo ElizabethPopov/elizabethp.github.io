@@ -7,7 +7,7 @@
 
   <h2>🔬 Current Project</h2>
   <ul>
-    <li>🧪 3rd rotation at <a href="https://www.weizmann.ac.il/CSB/Afek/home">Afek Lab</a> – Stay tuned! Revealed on April 20th 👀</li>
+    <li>🧪 3rd rotation at <a href="https://www.weizmann.ac.il/CSB/Afek/home">Afek Lab</a> – Analyzing high-throughput sequencing data from plasmid libraries to quantify repair efficiency across diverse sequence contexts</li>
   </ul>
 
   <h2>🧠 Previous Projects</h2>
